@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 685fe89bd810cd947933bfd6a797018e, type: 3}
+  m_Name: Fire Stick
+  m_EditorClassIdentifier: 
+  PropSprite: {fileID: 5860325458425312261, guid: a0d3fbbc155eb404a87f827b40a48dfe,
+    type: 3}
+  PropSize: {x: 1, y: 1}
+  isHp: 1
+  hp: 2
+  boxCol: 0
+  circleCol: 1
+  Corner: 1
+  NearWallUP: 1
+  NearWallDown: 1
+  NearWallRight: 1
+  NearWallLeft: 1
+  Inner: 0
+  PlacementQuantityMin: 1
+  PlacementQuantityMax: 1
+  PlaceAsGroup: 0
+  GroupMinCount: 1
+  GroupMaxCount: 2

@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Demon Controller
+  m_Controller: {fileID: 9100000, guid: 8cc2682cc164c474682d1d317662aca3, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 66fd6d4c1f1414f4fa7a680c3823edc1, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 66fd6d4c1f1414f4fa7a680c3823edc1, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 9e4997b112b46a843bfe8785df6d4e26, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 9e4997b112b46a843bfe8785df6d4e26, type: 2}
